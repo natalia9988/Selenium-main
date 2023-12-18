@@ -1,0 +1,20 @@
+xpath:
+    LOCATOR_LOGIN_FIELD: //*[@id="login"]/div[1]/label/input
+# — локатор поля ввода пароля
+    LOCATOR_PASS_FIELD: //*[@id="login"]/div[2]/label/input
+# — локатор кнопки логина
+    LOCATOR_LOGIN_BTN: //*[@id="login"]/div[3]/button
+# — локатор поля с ошибкой
+    LOCATOR_ERROR_FIELD: //*[@id="app"]/main/div/div/div[2]/h2
+
+    LOCATOR_RESULT_LOGIN: //*[@id="app"]/main/div/div[1]/h1
+
+    LOCATOR_CREATE_NEW_POST: //*[@id="create-btn"]
+
+    LOCATOR_POST_TITLE: //*[@id="create-item"]/div/div/div[1]/div/label/input
+
+    LOCATOR_POST_CONTENT: //*[@id="create-item"]/div/div/div[3]/div/label/span/textarea
+
+    LOCATOR_CREATE_POST_BTN: //*[@id="create-item"]/div/div/div[7]/div/button
+
+    LOCATOR_POST: //*[@id="app"]/main/div/div[1]/h1

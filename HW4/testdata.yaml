@@ -1,0 +1,17 @@
+address: https://test-stand.gb.ru/
+browser: chrome
+sleep_time: 1
+login: "alexgrach"
+password: "37fff30bdc"
+sleep_time_1: 10
+title_name: "Hello friend!"
+description_name: "My friend"
+content_name: " I have many friends"
+your_name: "Natalia"
+your_email: "Nata@mail.ru"
+your_content: "Hello world"
+url_login: https://test-stand.gb.ru/gateway/login
+url_posts: https://test-stand.gb.ru/api/posts
+
+login_1: egdgg
+password_1: bb2755fa53
